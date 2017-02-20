@@ -1,5 +1,7 @@
 # Wgan_papers
+
 Reading Group 2/14
+
 https://openreview.net/group?id=ICLR.cc/2017/conference
 
 Search "adversarial" in the titles of accepted papers:
